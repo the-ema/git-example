@@ -27,7 +27,8 @@ How to fork:
     GitHub repo is downloaded on your local computer.
 
     </details>
-    
+* I make change for this file.
+* test test    
 * Open the folder in Visual Studio Code
 * Make a change in a file.
 * Run through the steps ( status, diff, add, commit, push )

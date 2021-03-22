@@ -27,3 +27,8 @@ How to fork:
     GitHub repo is downloaded on your local computer.
 
     </details>
+    
+* Open the folder in Visual Studio Code
+* Make a change in a file.
+* Run through the steps ( status, diff, add, commit, push )
+  * Since you've cloned this repository, it is pointing to your forked version.

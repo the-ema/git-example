@@ -28,7 +28,8 @@ How to fork:
 
     </details>
 * I make change for this file.
-* test test    
+* test test
+* Hello world!
 * Open the folder in Visual Studio Code
 * Make a change in a file.
 * Run through the steps ( status, diff, add, commit, push )
